@@ -8,17 +8,17 @@
 
 #### Εργαστηριακές ασκήσεις
 
-- [Εργαστηριακή άσκηση 1 κύκλου εκπαιδευόμενων 1](./pya/exercises/pya_w1_r1.ipynb)
+- [Εργαστηριακή άσκηση 1, κύκλος 1](./pya/exercises/pya_w1_r1.ipynb)
   - [Λύση](./pya/exercises/pya_w1_r1_solved.ipynb)
-- [Εργαστηριακή άσκηση 1 κύκλου εκπαιδευόμενων 2](./pya/exercises/pya_w1_r2.ipynb)
+- [Εργαστηριακή άσκηση 1, κύκλος 2](./pya/exercises/pya_w1_r2.ipynb)
   - [Λύση](./pya/exercises/pya_w1_r2_solved.ipynb)
-- [Εργαστηριακή άσκηση 1 κύκλου εκπαιδευόμενων 3](./pya/exercises/pya_w1_r3.ipynb)
+- [Εργαστηριακή άσκηση 1, κύκλος 3](./pya/exercises/pya_w1_r3.ipynb)
   
 ### Εβδομάδα 2 - Τμηματικός προγραμματισμός
 
-- [Εργαστηριακή άσκηση 2 κύκλου εκπαιδευόμενων 1](./pya/exercises/pya_w2_r1.ipynb)
+- [Εργαστηριακή άσκηση 2, κύκλος 1](./pya/exercises/pya_w2_r1.ipynb)
   - [Λύση](./pya/exercises/pya_w2_r1_solved.ipynb)
-- [Εργαστηριακή άσκηση 2 κύκλου εκπαιδευόμενων 2](./pya/exercises/pya_w2_r2.ipynb)
+- [Εργαστηριακή άσκηση 2, κύκλος 2](./pya/exercises/pya_w2_r2.ipynb)
   - [Λύση](./pya/exercises/pya_w2_r2_solved.ipynb)
 
 ### Εβδομάδα 3 - Λίστες βιβλιοθήκες και τμήματα
