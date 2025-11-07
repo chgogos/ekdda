@@ -13,7 +13,10 @@
 - [Εργαστηριακή άσκηση 1, κύκλος 2](./pya/exercises/pya_w1_r2.ipynb)
   - [Λύση](./pya/exercises/pya_w1_r2_solved.ipynb)
 - [Εργαστηριακή άσκηση 1, κύκλος 3](./pya/exercises/pya_w1_r3.ipynb)
-  
+  - [Λύση](./pya/exercises/pya_w1_r3_solved.ipynb)
+- [Εργαστηριακή άσκηση 1, κύκλος 4](./pya/exercises/pya_w1_r4.ipynb)
+
+
 ### Εβδομάδα 2 - Τμηματικός προγραμματισμός
 
 - [Εργαστηριακή άσκηση 2, κύκλος 1](./pya/exercises/pya_w2_r1.ipynb)
