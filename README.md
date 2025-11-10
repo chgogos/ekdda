@@ -6,7 +6,7 @@
 
 ### Εβδομάδα 1 - Εισαγωγή στην Python
 
-#### Εργαστηριακές ασκήσεις
+- [](./pya/presentations/1.3%20Εισαγωγή%20στην%20Python.pdf)
 
 - [Εργαστηριακή άσκηση 1, κύκλος 1](./pya/exercises/pya_w1_r1.ipynb)
   - [Λύση](./pya/exercises/pya_w1_r1_solved.ipynb)
@@ -15,7 +15,6 @@
 - [Εργαστηριακή άσκηση 1, κύκλος 3](./pya/exercises/pya_w1_r3.ipynb)
   - [Λύση](./pya/exercises/pya_w1_r3_solved.ipynb)
 - [Εργαστηριακή άσκηση 1, κύκλος 4](./pya/exercises/pya_w1_r4.ipynb)
-
 
 ### Εβδομάδα 2 - Τμηματικός προγραμματισμός
 
@@ -34,8 +33,23 @@
 
 ### Εβδομάδα 7 - Εισαγωγή στον αντικειμενοστραφή προγραμματισμό
 
-<!-- ## Ανάλυση δεδομένων με την Python
+- [Εργαστηριακή άσκηση 7, κύκλος 1](./pya/exercises/pya_w7_r1.ipynb)
+  - [Λύση](./pya/exercises/pya_w7_r1_solved.ipynb)
 
-## MySQL
+### Εργασίες
+
+- [Εργασία 1, κύκλος 1](./pya/exercises/ΕΡΓΑΣΙΑ1-PYTHON-A-R1.pdf)
+  - [Λύση](./pya/exercises/ergasia1_R1.py)
+- [Εργασία 1, κύκλος 2](./pya/exercises/ΕΡΓΑΣΙΑ1-PYTHON-A-R1.pdf)
+- [Εργασία 1, κύκλος 3](./pya/exercises/ΕΡΓΑΣΙΑ1-PYTHON-A-R1.pdf)
+  
+---
+
+
+## Ανάλυση δεδομένων με την Python
+
+
+
+<!-- ## MySQL
 
 ## Developing optimal solutions for organizational and business needs using OR (Operations Research) and AI (Artificial Intelligence) -->
