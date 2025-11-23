@@ -17,6 +17,7 @@
 - [Εργαστηριακή άσκηση 1, κύκλος 3](./pya/exercises/pya_w1_r3.ipynb)
   - [Λύση](./pya/exercises/pya_w1_r3_solved.ipynb)
 - [Εργαστηριακή άσκηση 1, κύκλος 4](./pya/exercises/pya_w1_r4.ipynb)
+  - [Λύση](./pya/exercises/pya_w1_r4_solved.ipynb)
 
 ### Εβδομάδα 2 
 
@@ -58,6 +59,7 @@
 - [Εργασία 1, κύκλος 1](./pya/exercises/ΕΡΓΑΣΙΑ1-PYTHON-A-R1.pdf)
   - [Λύση](./pya/exercises/ergasia1_R1.py)
 - [Εργασία 1, κύκλος 2](./pya/exercises/ΕΡΓΑΣΙΑ1-PYTHON-A-R2.pdf)
+  - [Λύση](./pya/exercises/ergasia1_R2.py)
 - [Εργασία 1, κύκλος 3](./pya/exercises/ΕΡΓΑΣΙΑ1-PYTHON-A-R3.pdf)
   
 ---
