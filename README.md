@@ -104,6 +104,7 @@
 **Εργαστηριακές ασκήσεις**
 - [Εργαστηριακή άσκηση 9, κύκλος 1](./dawp/exercises/dawp_w9_r1.ipynb)
   - [Λύση](./dawp/exercises/dawp_w9_r1_solved.ipynb) 
+- [Εργαστηριακή άσκηση 9, κύκλος 2](./dawp/exercises/dawp_w9_r2.ipynb)
 
 
 <!-- ## MySQL
