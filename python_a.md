@@ -18,6 +18,7 @@
   - [Λύση](./pya/exercises/pya_w1_r4_solved.ipynb)
 - [Εργαστηριακή άσκηση 1, κύκλος 5](./pya/exercises/pya_w1_r5.ipynb)
   - [Λύση](./pya/exercises/pya_w1_r5_solved.ipynb)
+- [Εργαστηριακή άσκηση 1, κύκλος 5](./pya/exercises/pya_w1_r6.ipynb)
 
 ## Εργαστηριακές ασκήσεις εβδομάδας 2
 
@@ -25,6 +26,7 @@
   - [Λύση](./pya/exercises/pya_w2_r1_solved.ipynb)
 - [Εργαστηριακή άσκηση 2, κύκλος 2](./pya/exercises/pya_w2_r2.ipynb)
   - [Λύση](./pya/exercises/pya_w2_r2_solved.ipynb)
+- [Εργαστηριακή άσκηση 2, κύκλος 6](./pya/exercises/pya_w2_r6.ipynb)
 
 ## Εργαστηριακές ασκήσεις εβδομάδας 7
 
