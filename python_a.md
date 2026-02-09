@@ -28,6 +28,7 @@
 - [Εργαστηριακή άσκηση 2, κύκλος 2](./pya/exercises/pya_w2_r2.ipynb)
   - [Λύση](./pya/exercises/pya_w2_r2_solved.ipynb)
 - [Εργαστηριακή άσκηση 2, κύκλος 6](./pya/exercises/pya_w2_r6.ipynb)
+  - [Λύση](./pya/exercises/pya_w2_r6_solved.ipynb)
 
 ## Εργαστηριακές ασκήσεις εβδομάδας 7
 
