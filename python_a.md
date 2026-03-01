@@ -36,6 +36,10 @@
   - [Λύση](./pya/exercises/pya_w7_r1_solved.ipynb)
 - [Εργαστηριακή άσκηση 7, κύκλος 4](./pya/exercises/pya_w7_r4.ipynb)
   - [Λύση](./pya/exercises/pya_w7_r4_solved.ipynb)
+- [Εργαστηριακή άσκηση 7, κύκλος 5](./pya/exercises/pya_w7_r5.ipynb)
+  - [Λύση](./pya/exercises/pya_w7_r5_solved.ipynb)
+- [Εργαστηριακή άσκηση 7, κύκλος 7](./pya/exercises/pya_w7_r7.ipynb)
+  - [Λύση](./pya/exercises/pya_w7_r7_solved.ipynb)
 
 ## Εργασίες
 
@@ -47,3 +51,5 @@
   - [Λύση](./pya/exercises/ergasia1_R3.py)
 - [Εργασία 1, κύκλος 4](./pya/exercises/ΕΡΓΑΣΙΑ1-PYTHON-A-R4.pdf)
   - [Λύση](./pya/exercises/ergasia1_R4.py)
+- [Εργασία 1, κύκλος 5](./pya/exercises/ΕΡΓΑΣΙΑ1-PYTHON-A-R5.pdf)
+  - [Λύση](./pya/exercises/ergasia1_R5.py)
