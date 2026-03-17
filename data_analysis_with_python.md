@@ -26,3 +26,4 @@
   - [Λύση](./dawp/exercises/dawp_w9_r1_solved.ipynb)
 - [Εργαστηριακή άσκηση 9, κύκλος 2](./dawp/exercises/dawp_w9_r2.ipynb)
   - [Λύση](./dawp/exercises/dawp_w9_r2_solved.ipynb)
+- [Εργαστηριακή άσκηση 9, κύκλος 3](./dawp/exercises/dawp_w9_r3.ipynb)

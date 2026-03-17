@@ -38,6 +38,8 @@
   - [Λύση](./pya/exercises/pya_w7_r4_solved.ipynb)
 - [Εργαστηριακή άσκηση 7, κύκλος 5](./pya/exercises/pya_w7_r5.ipynb)
   - [Λύση](./pya/exercises/pya_w7_r5_solved.ipynb)
+- [Εργαστηριακή άσκηση 7, κύκλος 6](./pya/exercises/pya_w7_r6.ipynb)
+  - [Λύση](./pya/exercises/pya_w7_r6_solved.ipynb)
 - [Εργαστηριακή άσκηση 7, κύκλος 7](./pya/exercises/pya_w7_r7.ipynb)
   - [Λύση](./pya/exercises/pya_w7_r7_solved.ipynb)
 
